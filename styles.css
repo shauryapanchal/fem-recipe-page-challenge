@@ -63,7 +63,7 @@ section:last-child{
     border-bottom: none;
 }
 
-#no-sub{
+.no-sub{
     font-weight: normal;
 }
 span{
